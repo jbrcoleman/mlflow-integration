@@ -1,2 +1,2 @@
 # mlflow-integration
-Use mlflow for house pricing prediction model
+Use mlflow for models using different datasets
